@@ -1,4 +1,4 @@
 # GardenShop
 
-[!NOTE]
+> [!NOTE]
 Hello
